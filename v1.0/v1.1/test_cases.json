@@ -1,0 +1,776 @@
+[
+    {
+        "input": "What is TRONIC.LK?",
+        "actual_output": "TRONIC.LK is an electronic component and module supplier under Sigma Electronics (Pvt) Ltd., offering high-quality components and tools in China, Taiwan, Hong Kong, Japan, etc.",
+        "expected_output": "TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.",
+        "context": null,
+        "retrieval_context": [
+            "About Us TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.  We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price. \nSome of the frequently asked questions are answered below.  Where should I handover the defective item(s) for inspection?  To TRONIC.LK in Kohuwala.  If I can't come, shall I send the defective item(s) via Registered Post or via a courier service and should I pay the delivery fee?  Yes, you can safely pack the items and send to us by paying all the fees involved. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What types of products does TRONIC.LK supply?",
+        "actual_output": "TRONIC.LK supplies high-quality electronic components such as Arduino modules, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, and a variety of products from universities, technology institutes, R&D companies, Military, Garments, etc.",
+        "expected_output": "They supply high quality electronic components, modules, and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany, and Australia.",
+        "context": null,
+        "retrieval_context": [
+            "About Us TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.  We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price. \nBeing electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "When did TRONIC.LK first introduce Arduino development boards and modules to Sri Lanka?",
+        "actual_output": "TRONIC.LK first introduced their Arduino development boards and modules to Sri Lanka in 2011.\n\nAnswer: TRONIC.LK first introduced their Arduino development boards and modules to Sri Lanka in 2011.",
+        "expected_output": "They introduced them back in 2011 under the company named Lankatronics (Pvt) Ltd.",
+        "context": null,
+        "retrieval_context": [
+            "We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing. \nBeing electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the mission of TRONIC.LK?",
+        "actual_output": "TRONIC.LK's mission is centered on providing high-quality electronic components at competitive prices. As part of Sigma Electronics (Pvt) Ltd., they leverage years of experience in research and development to innovate and produce exportable products, aiming to reach a global audience while maintaining affordability.",
+        "expected_output": "To introduce high quality components to the local market.",
+        "context": null,
+        "retrieval_context": [
+            "About Us TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.  We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price. \nWe will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the vision of TRONIC.LK?",
+        "actual_output": "TRONIC.LK's vision is centered around being a trusted partner in the electronics industry, offering high-quality electronic components and services that include checking item status, discussing refunds or purchasing different items. They also aim to contribute to the technology community by sharing resources with the global tech community, focusing on maintaining low costs for exportable products while ensuring ethical sourcing practices.",
+        "expected_output": "To become the market leader in high quality component sourcing.",
+        "context": null,
+        "retrieval_context": [
+            "About Us TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.  We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price. \nWe will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "Where is the TRONIC.LK Electronic Shop located?",
+        "actual_output": "TRONIC.LK's electronic shop is located at \"Kohuwala, Nugegoda\".",
+        "expected_output": "At 8, 1/1, Sunethradevi Road, Kohuwala, Nugegoda.",
+        "context": null,
+        "retrieval_context": [
+            "Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. \nAbout Us TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.  We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What are the operating hours of the TRONIC.LK Electronic Shop?",
+        "actual_output": "TRONIC.LK's electronic shop operates as follows:\n\n- **Monday to Saturday**: Open from 9:00 AM to 7:00 PM.\n- **Sunday**: Open from 9:00 AM to 6:00 PM.\n\nOn Poya Days and Mercantile Holidays, the shop is closed.",
+        "expected_output": "Open all 7 days from 9:00 AM to 7:00 PM, except on Poya Days and Mercantile Holidays.",
+        "context": null,
+        "retrieval_context": [
+            "Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. \nIn our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites.  Tech Support We only provide technical support via our Support Ticket System. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How can customers check product availability at TRONIC.LK?",
+        "actual_output": "To check your product availability at TRONIC.LK, you have two options:\n\n1. **Request from You**: If an item isn't listed on their website, you can request it directly from them.\n\n2. **Email Check**: Send an email to orders@tronic.lk with your contact details (name and phone number) and the links to the websites where the item is available. This will allow you to check availability via email or using the check@tronic.lk service, which will provide a reply detailing the process.\n\nThese methods ensure that customers can efficiently verify their product availability at TRONIC.LK.",
+        "expected_output": "They should send an email to check@tronic.lk.",
+        "context": null,
+        "retrieval_context": [
+            "In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites.  Tech Support We only provide technical support via our Support Ticket System. \nToday, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What telephone numbers are provided for general inquiries at the Electronic Shop?",
+        "actual_output": "The telephone numbers provided for general inquiries at the Electronic Shop are:\n\n- 0777 854444\n- 0114 544566",
+        "expected_output": "0777 854444 and 0114 544566 (Tel/WhatsApp).",
+        "context": null,
+        "retrieval_context": [
+            "In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites.  Tech Support We only provide technical support via our Support Ticket System. \nCorporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services.  Please email your inquiry or complain directly to the management via complains@tronic.lk.\n\n"
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What are the operating hours for the TRONIC.LK Online Store?",
+        "actual_output": "The TRONIC.LK Online Store is open from Monday to Saturday between 9:00 AM and 6:00 PM, excluding Poya Days and Mercantile Holidays.",
+        "expected_output": "It is open from Monday to Saturday, 9:00 AM to 6:00 PM, except on Poya Days and Mercantile Holidays.",
+        "context": null,
+        "retrieval_context": [
+            "In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites.  Tech Support We only provide technical support via our Support Ticket System. \nBeing electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "Which email address should be used for Sales Inquiries?",
+        "actual_output": "Sales inquiries can be sent via **info@tronic.lk**.",
+        "expected_output": "sales@tronic.lk",
+        "context": null,
+        "retrieval_context": [
+            "We will release more resources in the near future.  We will also takeover limited mass-production orders for moulding and PCB production in collaboration with our Chinese business partners.  Please note, we will only do initial communication via email.  Send your inquiry to projects@lankatronics.lk with your contact details (name, phone number, company, etc...) and a detailed description of your project plan, documents, etc... By making sure your privacy is guaranteed with us, we will start communication with you.  3D Designing We have an expert in-house engineer who is responsible for 3D modeling and designing work for the company. \nWe will accept your contact details along with the return items.  We will contact you within 7 days to inform the status.  Online Purchase You need to first send an email to info@tronic.lk by mentioning your contact details, bill date/number and list of items to be returned.  If we ask you to send the items to our office, then you need to carefully pack the items with enough safe materials and send via a courier service to reach our office (address can be seen at the bottom of the contact us page).  We will check and let you know the status of the items. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the procedure for special orders?",
+        "actual_output": "The context provided does not include any information about special orders. Therefore, it's impossible to determine a procedure for special orders based solely on the given context.",
+        "expected_output": "Customers need to send an email to orders@tronic.lk with their contact details and details of the required items including website links.",
+        "context": null,
+        "retrieval_context": [
+            "One of our sales staff will send you the links to our products where you can confirm.  You'll then be asked for details such as payment mode, delivery method, etc... and we will prepare your parcel as quickly as possible.  Ordering Procedure 1.  Send us a list of items (up to 5 items only) 2.  We will send you codes, photos and item links to identify what you need 3. \nSend us a list of items (up to 5 items only) 2.  We will send you codes, photos and item links to identify what you need 3.  We will ask order details such as delivery method STAFF: We check whether all the items are available 4.  We will send details for you to do the payment 5.  We will confirm the reception of your payment STAFF: We prepare your order 6. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How does TRONIC.LK provide technical support?",
+        "actual_output": "TRONIC.LK provides technical support through charging for the time spent on your work by their technical staff.",
+        "expected_output": "Technical support is provided via their Support Ticket System; inquiries should be sent to support@tronic.lk.",
+        "context": null,
+        "retrieval_context": [
+            "See (3) if you can't come to collect the replacement.  What happens if I neglect to pay the expenses?  To avoid further losses, TRONIC.LK will remove you from the system and stop further interactions Why does TRONIC.LK charge for technical support?  You need to pay for the time spent on your work by our technical staff.  WARRANTY TERMS & CONDITIONS Warranty will be void if one or many of the following conditions have met. \nWe will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "Which email address is designated for Corporate Division inquiries?",
+        "actual_output": "The corporate division inquiries are handled by Lankatronics (Pvt) Ltd., with their email address being **corp@lankatronics.lk**.",
+        "expected_output": "corp@lankatronics.lk",
+        "context": null,
+        "retrieval_context": [
+            "Tech Support We only provide technical support via our Support Ticket System.  Please read the FAQ and Warranty pages for the details you need to send to us.  Send your inquiry to support@tronic.lk email address.  Corporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd. \nSend your inquiry to support@tronic.lk email address.  Corporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the Corporate Division hotline number?",
+        "actual_output": "The hotline number for the corporate division is **077 5678 000**.",
+        "expected_output": "077 5678 000 (Tel & WhatsApp).",
+        "context": null,
+        "retrieval_context": [
+            "Send your inquiry to support@tronic.lk email address.  Corporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services. \nCorporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services.  Please email your inquiry or complain directly to the management via complains@tronic.lk.\n\n"
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "Which division handles R&D and what is their contact email?",
+        "actual_output": "The R&D Division handles R&D work, and their contact email is **projects@tesla.lk**.",
+        "expected_output": "Tesla Robotics (Pvt) Ltd. handles R&D; contact them at projects@tesla.lk.",
+        "context": null,
+        "retrieval_context": [
+            "Send your inquiry to support@tronic.lk email address.  Corporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services. \nCorporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services.  Please email your inquiry or complain directly to the management via complains@tronic.lk.\n\n"
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How does TRONIC.LK deliver orders across the island?",
+        "actual_output": "TRONIC.LK does not provide detailed information on how they deliver orders across the island within the provided context. When an order is placed and an item isn't available, TRONIC.LK handles it internally by sending emails or supporting tickets to ensure the order can be fulfilled. However, there's no explicit mention of couriers or shipping options for deliveries in this context.",
+        "expected_output": "They deliver items via a courier service with charges based on the weight of the parcel.",
+        "context": null,
+        "retrieval_context": [
+            "Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites.  Tech Support We only provide technical support via our Support Ticket System.  Please read the FAQ and Warranty pages for the details you need to send to us. \n8, 1/2, Sunethradevi Road, Kohuwala.  Tel: 076 8544607 / 0112 199744 If I can't come, can you send the replacement item(s) or working item(s) via a courier service and should I pay for the courier company?  Yes, TRONIC.LK can send the item(s) via courier service and you need to pay the courier fee.  What happens if TRONIC.LK finds the item working?\n\n TRONIC.LK will send you a video as a proof and you have to pay for the time involved in testing. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the courier charge for the first kilogram?",
+        "actual_output": "The courier charge for the first kilogram is Rs.480.",
+        "expected_output": "Rs. 480 for the first kilogram.",
+        "context": null,
+        "retrieval_context": [
+            "Every parcel we send via the courier service carries a tracking number where you can find the location of the package by calling the courier service (to the branch closer to your location).  More than 97% of the parcels we send are less than 1kg.  When you place your order, you\u2019ll see the courier charge for 1kg and we will manually adjust the courier charge if the weight is more than 1kg later on.  After you submit your order by selecting Bank-in option, we'll prepare your order.  If you've placed your order before 1:00PM in a working day, we will prepare it on the same day. \nAfter you make the payment, please reply to the email as paid.  Do not make your payment to our bank until you receive the payment email with payment details.  Example 1: If the weight of your parcel is 7.8kg, this how we calculate the courier charge.  Up to 1st kilogram: Rs.  480.00 Additional weight: 6.8kg, this is rounded up to the ceiling which is 7kg Charge for additional weight: Rs. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How much is charged for each additional kilogram in courier delivery?",
+        "actual_output": "The amount charged for each additional kilogram in courier delivery is not explicitly mentioned in the context provided. Instead, any weight over 1kg is rounded up to the next integer and added to the base charge. Therefore, without specific rates, it's not possible to determine how much is charged per additional kilogram.\n\nAnswer: The amount charged for each additional kilogram isn't specified; instead, any weight over 1kg is rounded up and added to the base charge.",
+        "expected_output": "Rs. 150 for each additional kilogram.",
+        "context": null,
+        "retrieval_context": [
+            "Every parcel we send via the courier service carries a tracking number where you can find the location of the package by calling the courier service (to the branch closer to your location).  More than 97% of the parcels we send are less than 1kg.  When you place your order, you\u2019ll see the courier charge for 1kg and we will manually adjust the courier charge if the weight is more than 1kg later on.  After you submit your order by selecting Bank-in option, we'll prepare your order.  If you've placed your order before 1:00PM in a working day, we will prepare it on the same day. \nAfter you make the payment, please reply to the email as paid.  Do not make your payment to our bank until you receive the payment email with payment details.  Example 1: If the weight of your parcel is 7.8kg, this how we calculate the courier charge.  Up to 1st kilogram: Rs.  480.00 Additional weight: 6.8kg, this is rounded up to the ceiling which is 7kg Charge for additional weight: Rs. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the delivery guarantee period for courier services?",
+        "actual_output": "The delivery guarantee period for courier services is up to 4 working days.",
+        "expected_output": "Delivery is guaranteed within 1 to 4 working days.",
+        "context": null,
+        "retrieval_context": [
+            "480 for the first kilogram and Rs.  150 for each additional kilogram.  Even though they mostly deliver packages in the following day, their guarantee is to deliver within 1 to 4 working days.  Every parcel we send via the courier service carries a tracking number where you can find the location of the package by calling the courier service (to the branch closer to your location).  More than 97% of the parcels we send are less than 1kg. \nWe always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services.  Please email your inquiry or complain directly to the management via complains@tronic.lk.\n\n Delivery DELIVERY VIA COURIER SERVICE We deliver items island-wide via a courier service.  The courier service charges Rs.  480 for the first kilogram and Rs. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How do customers track their parcel?",
+        "actual_output": "Customers track their parcels by visiting the specific tracking page on the website: https://promptxpress.lk/TrackItem.aspx, entering the tracking number when they hand over the package, and receiving an email with the tracking number sent a few days earlier. If there are any issues, customers can contact the nearest branch using the tracking number provided in the email.",
+        "expected_output": "A tracking number is provided via email, and customers can track their parcel through the courier service's tracking system.",
+        "context": null,
+        "retrieval_context": [
+            "In this case, you need to supply us the replacement within 2 days, so our engineering team can proceed with the test.  If you have further questions, feel free to contact us via projects@lankatronics.lk.\n\n Tracking To track your parcel, please visit the tracking page of Prompt Xpress courier service below and enter the provided tracking number by us.  https://promptxpress.lk/TrackItem.aspx Please note that the tracking number will be sent via email on the next weekday before 11:00AM after we handover the package to courier service.  Weekday are working days from Monday to Friday\n\nWarranty We provide warranty for some of the products we sell as below only against manufacturing defects. \n150 for each additional kilogram.  Even though they mostly deliver packages in the following day, their guarantee is to deliver within 1 to 4 working days.  Every parcel we send via the courier service carries a tracking number where you can find the location of the package by calling the courier service (to the branch closer to your location).  More than 97% of the parcels we send are less than 1kg.  When you place your order, you\u2019ll see the courier charge for 1kg and we will manually adjust the courier charge if the weight is more than 1kg later on. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What quick delivery option is available for customers in Colombo?",
+        "actual_output": "The quick delivery option available for customers in Colombo is using Uber or Pickme Flash motorbikes. This service ensures fast and cost-effective delivery, particularly beneficial for those in the Colombo district.",
+        "expected_output": "Quick Delivery via Uber or Pickme Flash motorbike/three-wheeler delivery service.",
+        "context": null,
+        "retrieval_context": [
+            "480.00 Total courier charge: Rs.  480.00\n\nIf you have any question regarding delivery via courier service, please contact us via info@tronic.lk or Phone/Whatsapp 076 4485607 / 011 2 199744.  QUICK DELIVERY (PICKME FLASH / UBER PACKAGE) If you need our products delivered quickly and you are in Colombo district, you can use Uber / Pickme Flash motorbike/three-wheeler Delivery service.  It not only saves cost, but also saves time.  Delivery via motorbikes are bit cheaper than three-wheelers, so unless motorbikes are not available, don\u2019t select three-wheelers. \nAll you have to do is, find the items you need and send us a WhatsApp message to 076 4485607 with items codes or photos with quantities.  One of our sales staff will send you the links to our products where you can confirm.  You'll then be asked for details such as payment mode, delivery method, etc... and we will prepare your parcel as quickly as possible.  Ordering Procedure 1.  Send us a list of items (up to 5 items only) 2. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How should a customer initiate a fast delivery request using Uber/Pickme?",
+        "actual_output": "To initiate a fast delivery request using Uber/Pickme, follow these steps:\n\n1. Place your order by entering \"Uber / Pickme collection\" in the comments box at the end of the ordering process.\n\n2. Once placed, choose between Uber/Pickme Flash or UBER package for delivery within the same order.",
+        "expected_output": "Place an online order and enter 'Uber / Pickme collection' in the comments box; then follow the provided instructions.",
+        "context": null,
+        "retrieval_context": [
+            "It not only saves cost, but also saves time.  Delivery via motorbikes are bit cheaper than three-wheelers, so unless motorbikes are not available, don\u2019t select three-wheelers.  You will be able to collect your order in a short period of time (mostly within an hour) and you can track the driver in your Uber / Pickme app.  Here is how you could do that.  First, you need to place an online order by entering \u201cUber / Pickme collection\u201d in the comments box which appears at the end of the ordering process. \n480.00 Total courier charge: Rs.  480.00\n\nIf you have any question regarding delivery via courier service, please contact us via info@tronic.lk or Phone/Whatsapp 076 4485607 / 011 2 199744.  QUICK DELIVERY (PICKME FLASH / UBER PACKAGE) If you need our products delivered quickly and you are in Colombo district, you can use Uber / Pickme Flash motorbike/three-wheeler Delivery service.  It not only saves cost, but also saves time.  Delivery via motorbikes are bit cheaper than three-wheelers, so unless motorbikes are not available, don\u2019t select three-wheelers. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What does a customer need to do for a store pickup order?",
+        "actual_output": "To complete a store pickup order, customers must follow these steps:\n\n1. Place an order by entering \"Uber / Pickme collection\" in their comments during the ordering process.\n\n2. After placing the order, send the bank details via email provided by our staff.\n\n3. Collect your items over the counter from our shop as directed by the context.\n\nThis process ensures that the customer's order is collected efficiently and effectively.",
+        "expected_output": "They should mention 'Store Pickup' in the comment section when placing the order.",
+        "context": null,
+        "retrieval_context": [
+            "That\u2019s all.  You will get your order in a very short period of time.  STORE PICKUP If you mention \"Store Pickup\" in the comment section of your order, then you can collect the items over the counter from our shop.\n\n Payment Options Here are the payment options we offer.  We prefer bank transfers to all other options. \nYou will be able to collect your order in a short period of time (mostly within an hour) and you can track the driver in your Uber / Pickme app.  Here is how you could do that.  First, you need to place an online order by entering \u201cUber / Pickme collection\u201d in the comments box which appears at the end of the ordering process.  One of our staff members will prepare your order, remove courier charge and send you bank details via email.  You need to do the payment only for the items (mention the last 4 digits of the order number as the bank reference), reply to the email with a payment proof and open Uber / Pickme app in your mobile phone and place a collection request. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the preferred payment method at TRONIC.LK?",
+        "actual_output": "The preferred payment method at TRONIC.LK is through email. The store does not use phone lines for checking item availability or pricing; instead, they prefer sending an email via check@tronic.lk to obtain information.",
+        "expected_output": "Bank transfers are preferred due to the absence of unnecessary third-party charges.",
+        "context": null,
+        "retrieval_context": [
+            "However these plans change from time to time and only become visible in PayHere online payment menu.  Note that the 2.99% payment processing fee will still be charged as mentioned in (4) above.  If you have any question regarding payment methods and processing fees, please feel free to contact us via info@tronic.lk or Phone/Whatsapp 076 4485607 / 0112 199744.\n\n Returns We reserve the right to accept or reject return or exchange requests other than Warranty Claims.  The main reason to limit return/exchange requests is to minimise checking time spend by our sales and engineering team. \nToday, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What mobile app can be used for payments that link to multiple bank accounts?",
+        "actual_output": "The mobile app that allows using a QR code for payments linked to multiple bank accounts is **Q+** or **Frimi**.",
+        "expected_output": "The Frimi app by Nations Trust Bank (NTB).",
+        "context": null,
+        "retrieval_context": [
+            "Once you have Frimi running, you can transfer money to almost any bank account.  No payment processing charge applied.  If you are having a smart phone running a QR payment app such as Frimi, Q+, WePay, SOLO, etc..., we can send you our Frimi Merchant QR code to do the payment.  Make sure to mention as \"Frimi QR\" in the comment box which appears at the order submission stage.  A payment processing fee of 0.5% will be applied (charged by Frimi). \nAll the banks in Sri Lanka have online banking facilities such as Sampath Vishwa, ComBank Digital, etc... We highly recommend you to create an online banking account where you can transfer money to any bank account at any time.  No payment processing charge applied.  If you are having a smart phone, you may download Frimi app made by Nations Trust Bank (NTB).  They will ask for your NIC, live photo, etc... and then allow you to link your bank accounts, debit cards, etc... You don't need to have a NTB bank account to do that.  Once you have Frimi running, you can transfer money to almost any bank account. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What processing fee is applied when using a QR payment app like Frimi QR?",
+        "actual_output": "The processing fee applied when using a QR payment app like Frimi is **0.5%**. This applies after sending the QR code for payment and includes a charge from Frimi.",
+        "expected_output": "A processing fee of 0.5% is applied.",
+        "context": null,
+        "retrieval_context": [
+            "If you are having a smart phone running a QR payment app such as Frimi, Q+, WePay, SOLO, etc..., we can send you our Frimi Merchant QR code to do the payment.  Make sure to mention as \"Frimi QR\" in the comment box which appears at the order submission stage.  A payment processing fee of 0.5% will be applied (charged by Frimi).  If any of the above options don't work for you and you would like to pay with credit card or debit card or any other payment option listed below (Excluding American Express, Diners club, Discover), then mention as \"PayHere\" in the comment box which appears at the order submission stage.  We will send you an online invoice via PayHere. \nOnce you have Frimi running, you can transfer money to almost any bank account.  No payment processing charge applied.  If you are having a smart phone running a QR payment app such as Frimi, Q+, WePay, SOLO, etc..., we can send you our Frimi Merchant QR code to do the payment.  Make sure to mention as \"Frimi QR\" in the comment box which appears at the order submission stage.  A payment processing fee of 0.5% will be applied (charged by Frimi). "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What processing fee is charged when using PayHere for card payments?",
+        "actual_output": "When using PayHere for card payments, a processing fee of **2.99%** is charged, which remains constant even if the payment plans in PayHere are updated.",
+        "expected_output": "A processing fee of 2.99% is charged.",
+        "context": null,
+        "retrieval_context": [
+            "If any of the above options don't work for you and you would like to pay with credit card or debit card or any other payment option listed below (Excluding American Express, Diners club, Discover), then mention as \"PayHere\" in the comment box which appears at the order submission stage.  We will send you an online invoice via PayHere.  A payment processing fee of 2.99% (as of 30/03/2022) will be applied (charged by PayHere).  Easy Installment Payments - This is a set of new Easy Installment Plans introduced by PayHere.  If you want to buy some items and you don't have enough funds to afford, you can request us to send you an online payment request via PayHere which has several Easy Payment options. \nIf you want to buy some items and you don't have enough funds to afford, you can request us to send you an online payment request via PayHere which has several Easy Payment options.  However these plans change from time to time and only become visible in PayHere online payment menu.  Note that the 2.99% payment processing fee will still be charged as mentioned in (4) above.  If you have any question regarding payment methods and processing fees, please feel free to contact us via info@tronic.lk or Phone/Whatsapp 076 4485607 / 0112 199744.\n\n Returns We reserve the right to accept or reject return or exchange requests other than Warranty Claims. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How can customers opt for easy installment payments?",
+        "actual_output": "The context does not provide any explicit methods or options for customers to opt for easy installment payments. It mentions online invoices with a processing fee and QR payment apps but doesn't detail how customers can choose between different payment plans.\n\nAnswer: The context does not specify how customers can opt for easy installment payments.",
+        "expected_output": "By requesting an online payment request via PayHere which offers several easy payment options.",
+        "context": null,
+        "retrieval_context": [
+            "We will send you an online invoice via PayHere.  A payment processing fee of 2.99% (as of 30/03/2022) will be applied (charged by PayHere).  Easy Installment Payments - This is a set of new Easy Installment Plans introduced by PayHere.  If you want to buy some items and you don't have enough funds to afford, you can request us to send you an online payment request via PayHere which has several Easy Payment options.  However these plans change from time to time and only become visible in PayHere online payment menu. \nOnce you have Frimi running, you can transfer money to almost any bank account.  No payment processing charge applied.  If you are having a smart phone running a QR payment app such as Frimi, Q+, WePay, SOLO, etc..., we can send you our Frimi Merchant QR code to do the payment.  Make sure to mention as \"Frimi QR\" in the comment box which appears at the order submission stage.  A payment processing fee of 0.5% will be applied (charged by Frimi). "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is TRONIC.LK\u2019s policy regarding returns and exchanges?",
+        "actual_output": "TRONIC.LK's policy on returns and exchanges involves allowing customers to request specific items not listed by sending an email with their contact details to orders@tronic.lk. The item is then packed carefully and sent via a courier service to TRONIC.LK's office, which takes up to 7 days for processing.",
+        "expected_output": "Return/exchange requests (other than warranty claims) are accepted only if items are unopened, sealed, and unused, usually within 7 days of purchase.",
+        "context": null,
+        "retrieval_context": [
+            "Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details.  General Inquiries: 0777 854444 / 0114 544566 (Tel / WhatsApp) Online Store Open on Monday to Saturday from 9:00AM to 6:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk General Inquiries: info@tronic.lk Sales Inquiries: sales@tronic.lk Order Inquiries: 0112 199744 / 076 4485607 (Tel / WhatsApp) Special Orders Division\n\nIf the item(s) (components or modules) you need isn't listed, we can try to supply that for you.  You need to send us an email to orders@tronic.lk which includes your contact details such as name & phone number and details of your item(s) including links to websites. \nWe will accept your contact details along with the return items.  We will contact you within 7 days to inform the status.  Online Purchase You need to first send an email to info@tronic.lk by mentioning your contact details, bill date/number and list of items to be returned.  If we ask you to send the items to our office, then you need to carefully pack the items with enough safe materials and send via a courier service to reach our office (address can be seen at the bottom of the contact us page).  We will check and let you know the status of the items. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the return procedure for items purchased from the physical store?",
+        "actual_output": "The return procedure for items purchased from the physical store involves sending contact details with the item and waiting up to 7 days before returning it in a safe condition. The staff will check and charge based on complexity.",
+        "expected_output": "Customers must visit the outlet with their bill and the item(s) to be exchanged; the store will take their details and inform them within 7 days.",
+        "context": null,
+        "retrieval_context": [
+            "Returns We reserve the right to accept or reject return or exchange requests other than Warranty Claims.  The main reason to limit return/exchange requests is to minimise checking time spend by our sales and engineering team.  If you make a return/exchange request and the item is in unopened, sealed and unused condition, we might decide to accept the return/exchange request within the first 7 days of the purchase.  Then our sales and engineering team will check it against issues.  Depending on the complexity of the testing, our engineering team may opt to charge the customer. \nWe will accept your contact details along with the return items.  We will contact you within 7 days to inform the status.  Online Purchase You need to first send an email to info@tronic.lk by mentioning your contact details, bill date/number and list of items to be returned.  If we ask you to send the items to our office, then you need to carefully pack the items with enough safe materials and send via a courier service to reach our office (address can be seen at the bottom of the contact us page).  We will check and let you know the status of the items. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How should online purchase returns be initiated?",
+        "actual_output": "To initiate online purchase returns, follow these steps:\n\n1. **Email Submission**: Before returning any items, send an email to info@tronic.lk with your contact details, bill date/number, and a list of items to return.\n\n2. **Pack Items**: If necessary, pack the returned items securely with safe materials and use courier service to reach our office.\n\n3. **Receive Status**: Once the items are sent, the company will check their status and let you know the outcome.\n\nThis process ensures that returns are handled efficiently while minimizing contact time for sales and engineering teams.",
+        "expected_output": "By sending an email to info@tronic.lk with contact details, bill date/number, and a list of items to be returned. Additional instructions may follow.",
+        "context": null,
+        "retrieval_context": [
+            "We will accept your contact details along with the return items.  We will contact you within 7 days to inform the status.  Online Purchase You need to first send an email to info@tronic.lk by mentioning your contact details, bill date/number and list of items to be returned.  If we ask you to send the items to our office, then you need to carefully pack the items with enough safe materials and send via a courier service to reach our office (address can be seen at the bottom of the contact us page).  We will check and let you know the status of the items. \nNote that the 2.99% payment processing fee will still be charged as mentioned in (4) above.  If you have any question regarding payment methods and processing fees, please feel free to contact us via info@tronic.lk or Phone/Whatsapp 076 4485607 / 0112 199744.\n\n Returns We reserve the right to accept or reject return or exchange requests other than Warranty Claims.  The main reason to limit return/exchange requests is to minimise checking time spend by our sales and engineering team.  If you make a return/exchange request and the item is in unopened, sealed and unused condition, we might decide to accept the return/exchange request within the first 7 days of the purchase. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "Apart from selling products, what additional services does TRONIC.LK offer?",
+        "actual_output": "TRONIC.LK offers several services beyond just selling products. They provide high-quality electronic components and modules at reasonable prices. Additionally, they are part of a company dedicated to becoming a market leader in component sourcing.",
+        "expected_output": "They offer services such as 3D printing, CNC PCB engraving, 3D designing, PCB designing, PCB engraving/etching, PCB production, firmware development, and testing services.",
+        "context": null,
+        "retrieval_context": [
+            "We will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. \nBeing electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How does TRONIC.LK support local technology and innovation?",
+        "actual_output": "TRONIC.LK supports local technology and innovation by serving as a leading provider of Arduino development boards and components in Sri Lanka. They introduce micro:bits and other tech modules, act as a local tech partner through their extensive clientele, and offer an online shop with clear hours and customer support via email. Their commitment to quality ensures that they provide high-quality components locally, fostering innovation and supporting the region's tech ecosystem.",
+        "expected_output": "They share resources like 3D printers and CNC PCB engravers for prototyping purposes at reasonable costs and facilitate limited mass-production orders.",
+        "context": null,
+        "retrieval_context": [
+            "We will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. \nBeing electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price.  We currently supply Arduinos, Raspberry Pis, Orange Pis, Micro:bits, NodeMCUs, Atmel & Microchip microcontrollers, ICs & other passive components, Creality 3D Printers & filaments, Pneumatic parts, CNC accessories, Inverters, Battery chargers, Multimeters, Ronix Tools, etc... We were the first to introduce Arduino development boards and modules to Sri Lanka way back in 2011 under the company named Lankatronics (Pvt) Ltd., which later evolved into TRONIC.LK.  Today, TRONIC.LK is one of the leading electronic stores in Sri Lanka.  In our clientele, we have all the leading universities, technology institutes, R&D companies, Military, Garments, etc... Mission: Introduce High Quality Components to Local Market Vision: Become the Market Leader in High Quality Component Sourcing\n\nContact us Electronic Shop - Kohuwala, Nugegoda TRONIC.LK 8, 1/1, Sunethradevi Road, Kohuwala Google Map Link Open on all 7 days from 9:00AM to 7:00PM (Except Poya Days & Mercantile Holidays) Product availability check: check@tronic.lk NOTE: Please kindly don't call the phone lines to check item availability or pricing.  Instead, please send an email to check@tronic.lk and expect a reply shortly with details. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What service is available for customers needing 3D design?",
+        "actual_output": "The service available for customers needing 3D design is provided by the Expertise division, which handles 3D modeling and designing work for the company. Additionally, the R&D section from Tesla Robotics (Pvt) Ltd. offers services such as 3D printing and PCB design to companies.",
+        "expected_output": "In-house 3D modeling and designing for creating enclosures or prototypes, available by contacting projects@lankatronics.lk.",
+        "context": null,
+        "retrieval_context": [
+            "Please note, we will only do initial communication via email.  Send your inquiry to projects@lankatronics.lk with your contact details (name, phone number, company, etc...) and a detailed description of your project plan, documents, etc... By making sure your privacy is guaranteed with us, we will start communication with you.  3D Designing We have an expert in-house engineer who is responsible for 3D modeling and designing work for the company.  If you have an idea to make something like an enclosure for your electronic product, we can design a beautiful enclosure for you that matches your prototyping and mass- production budget.  Send an email to projects@lankatronics.lk with you requirement. \nCorporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services.  Please email your inquiry or complain directly to the management via complains@tronic.lk.\n\n"
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How do customers inquire about 3D printing services?",
+        "actual_output": "Customers typically inquire about 3D printing services through various means such as contacting the company or providing feedback. However, based on the provided context, there is no specific information detailing how customers directly inquire about 3D printing services. The R&D division handles these services but does not provide direct inquiry methods for them.\n\nAnswer: Customers typically inquire about 3D printing services through various means such as contacting the company or providing feedback. However, based on the provided context, there is no specific information detailing how customers directly inquire about 3D printing services. The R&D division handles these services but does not provide direct inquiry methods for them.",
+        "expected_output": "They should send their STL file to projects@lankatronics.lk for a quotation.",
+        "context": null,
+        "retrieval_context": [
+            "Send us a list of items (up to 5 items only) 2.  We will send you codes, photos and item links to identify what you need 3.  We will ask order details such as delivery method STAFF: We check whether all the items are available 4.  We will send details for you to do the payment 5.  We will confirm the reception of your payment STAFF: We prepare your order 6. \nCorporate Division All corporate sales are handled by Lankatronics (Pvt) Ltd.  Email: corp@lankatronics.lk Hotline: 077 5678 000 (Tel & WhatsApp) Tel: 0112 199755 R&D Division All R&D work are handled by Tesla Robotics (Pvt) Ltd.  For Laser Cutting, 3D Printing, PCB & Electronic Designing: projects@tesla.lk Hotline: 077 47 57 677 (Tel & WhatsApp) Landline: 0112 727321 For Complains We take customer satisfaction seriously and are glad to hear from you.  We always appreciate your feedback which allow us to resolve any problems that occur and help us to improve our services.  Please email your inquiry or complain directly to the management via complains@tronic.lk.\n\n"
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What is the minimum order quantity for plastic injection moulding?",
+        "actual_output": "The minimum order quantity for plastic injection moulding is 1000parts.",
+        "expected_output": "The minimum order quantity is 1000 pieces.",
+        "context": null,
+        "retrieval_context": [
+            "Send your STL file attached to projects@lankatronics.lk to get a quotation.  Plastic Injection Moulding\n\nIf you need to mould your enclosure or any other part using plastic injection moulding, we can do that via our collaboration with a Chinese factory.  Minimum order quantity is 1000pcs.  Please send your STL files to projects@lankatronics.lk for pricing.  PCB Designing We have an expert in-house engineer who is capable of PCB designing for the company. \nWe have tuned our 3D printers to output better quality prints in nearly 3 times the speed of a normal 3D printer.  Send your STL file attached to projects@lankatronics.lk to get a quotation.  Plastic Injection Moulding\n\nIf you need to mould your enclosure or any other part using plastic injection moulding, we can do that via our collaboration with a Chinese factory.  Minimum order quantity is 1000pcs.  Please send your STL files to projects@lankatronics.lk for pricing. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "How does TRONIC.LK assist with PCB designing?",
+        "actual_output": "TRONIC.LK assists with PCB designing by providing high-quality electronic components sourced from Sigma Electronics. They can help select essential parts for a PCB, offer pre-assembled designs, or work with manufacturers to ensure optimal technology solutions. Their expertise in component sourcing supports custom designs and ensures quality in the manufacturing process.",
+        "expected_output": "They provide in-house PCB designing services; customers can send their project details to projects@lankatronics.lk.",
+        "context": null,
+        "retrieval_context": [
+            "We will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. \nAbout Us TRONIC.LK is an electronic component and module sourcing company under Sigma Electronics (Pvt) Ltd.  We supply high quality electronic components, modules and tools manufactured in China, Taiwan, Hong Kong, Japan, USA, Italy, England, Germany and Australia.  Being electronic hobbyists, we strive to provide high-quality modules and components at a reasonable price. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What should a customer do to request firmware development services?",
+        "actual_output": "To request firmware development services from the company, a customer should:\n\n1. Provide their name and email address.\n2. Gather all relevant PCB information including size, layers, thickness, color, etc.\n\n3. Send this data to projects@lankatronics.lk for a quotation.",
+        "expected_output": "They need to send a detailed inquiry with their requirements to projects@lankatronics.lk.",
+        "context": null,
+        "retrieval_context": [
+            "You can send PCB size, number of layers, thickness and PCB colour (or any other special detail) along with your details to projects@lankatronics.lk to get a quotation from us.  If you need us to check your PCB for quality or do minor adjustments (for example component replacement due to a being obsolete) we can do that for you at a reasonable cost.  Firmware (Embedded Systems, IoT products) We have a team of experienced firmware engineers who are currently engaged in firmware development.  If you need to get your firmware made in production quality, send in your inquiry to projects@lankatronics.lk with details.\n\n NOTE: There are several undergrads, inexperienced grads and technicians whom we know mostly via TRONIC.LK doing firmware development. \nIf you need to get your firmware made in production quality, send in your inquiry to projects@lankatronics.lk with details.\n\n NOTE: There are several undergrads, inexperienced grads and technicians whom we know mostly via TRONIC.LK doing firmware development.  If you are looking for a firmware for a low cost prototype or one time production, we can introduce one of them to you with no guarantee on outcome.  Idea to Production Our vision is to become a resource provider to make your product dreams come true which in turn will help up to some extent to make Sri Lanka a production country than a country of junk imports.  We already aware of very talented engineers around the country who can surely do an impact for this purpose. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What testing services does TRONIC.LK offer for modules and sensors?",
+        "actual_output": "TRONIC.LK offers courier service and testing via video proof as their primary services. While they provide these services, there is no explicit information about dedicated testing services for modules and sensors. Instead, they emphasize sharing resources with the community to maintain low costs and ensure exportable products.\n\nAnswer: TRONIC.LK provides courier service and testing via video proof, but does not specifically offer dedicated testing services for modules and sensors.",
+        "expected_output": "They perform tests on modules and sensors, providing reports with photos, videos, diagrams, and source codes, with the cost paid in advance.",
+        "context": null,
+        "retrieval_context": [
+            "Yes, TRONIC.LK can send the item(s) via courier service and you need to pay the courier fee.  What happens if TRONIC.LK finds the item working?\n\n TRONIC.LK will send you a video as a proof and you have to pay for the time involved in testing.  Current fee as of 01/01/2024 is Rs.  1,000 per hour. \nWe will check and let you know the status of the items.  You can discuss with us whether to receive a refund or buy different items.\n\n Services As most of you know, TRONIC.LK is running by set of engineers who have years of experience in handling both foreign and local research and development projects.  To engage more in to development of our country, we have decided to share some of our resources with technology community.  We will try our best to maintain the lowest cost to make sure everyone can engage in producing something exportable than relying on imported low quality products. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What happens if a module sold by TRONIC.LK is found to be malfunctioning due to a manufacturing defect?",
+        "actual_output": "If TRONIC.LK identifies a module sold by them as malfunctioning due to a third-party defect, they will replace the faulty module for free and provide the customer with a fully functional system.\n\nAnswer: If TRONIC.LK finds a module sold by them is malfunctioning due to a third party's defect, they will replace it for free and give the customer a fully working system.",
+        "expected_output": "TRONIC.LK will either offer a refund or a replacement free of charge.",
+        "context": null,
+        "retrieval_context": [
+            "Tel: 076 8544607 / 0112 199744 If I can't come, can you send the replacement item(s) or working item(s) via a courier service and should I pay for the courier company?  Yes, TRONIC.LK can send the item(s) via courier service and you need to pay the courier fee.  What happens if TRONIC.LK finds the item working?\n\n TRONIC.LK will send you a video as a proof and you have to pay for the time involved in testing.  Current fee as of 01/01/2024 is Rs. \nThe cost must always be paid beforehand.  Once we receive the payment along with the requested items, our engineering team will perform the test and submit a test report to you including photos, videos, connection diagrams and source codes.  What if we found a module or sensor sold by us is malfunctioning?  In this case, we will replace those free of charge and finally give you a fully working system.  What if we found a module or sensor sold by a 3rd party is malfunctioning? "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What are some conditions that may void the warranty provided by TRONIC.LK?",
+        "actual_output": "The main conditions that may void TRONIC.LK's warranty include:\n\n1. **Neglecting Expenses**: If you fail to pay for courier services when unable to collect replacements.\n\n2. **System Termination or Customer Removal**: If TRONIC.LK removes you from the system or terminates interactions, your warranty is voided.\n\n3. **Item Failure or System Termination**: If the item fails or the system is terminated, your warranty is voided.\n\nThese conditions ensure that the warranty remains valid under specified circumstances.",
+        "expected_output": "Warranty may be voided by factors such as burn marks, mechanical damage during transportation, unauthorized modifications, inappropriate installation, misuse, external events, and non-observance of documentation.",
+        "context": null,
+        "retrieval_context": [
+            "Tel: 076 8544607 / 0112 199744 If I can't come, can you send the replacement item(s) or working item(s) via a courier service and should I pay for the courier company?  Yes, TRONIC.LK can send the item(s) via courier service and you need to pay the courier fee.  What happens if TRONIC.LK finds the item working?\n\n TRONIC.LK will send you a video as a proof and you have to pay for the time involved in testing.  Current fee as of 01/01/2024 is Rs. \nSee (3) if you can't come to collect the replacement.  What happens if I neglect to pay the expenses?  To avoid further losses, TRONIC.LK will remove you from the system and stop further interactions Why does TRONIC.LK charge for technical support?  You need to pay for the time spent on your work by our technical staff.  WARRANTY TERMS & CONDITIONS Warranty will be void if one or many of the following conditions have met. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    },
+    {
+        "input": "What special warranty terms apply to inverters and battery chargers?",
+        "actual_output": "Inverters are subject to condition (10), which specifies that you should not exceed half of the marked output peak wattage when using them continuously. Battery chargers may also be subject to similar conditions if they utilize inverters, but no specific warranty terms are explicitly mentioned beyond what's already covered in their respective sections.\n\n**Answer:**\nInverters are subject to condition (10), which limits continuous usage to half the marked output peak wattage. Battery chargers may follow similar guidelines when using inverters, but no special warranty terms are explicitly stated beyond the context provided.",
+        "expected_output": "For inverters, grid power should not be connected to the output and usage should not exceed half the marked output peak wattage. For battery chargers, batteries must be disconnected during charging and continuous charging of weak batteries is not advised.",
+        "context": null,
+        "retrieval_context": [
+            "Burn marks caused by short circuitry Mechanical damage during transportation of defective unit Any modification applied to the unit which was not performed by authorized personnel\n\nInappropriate installation or commissioning Negligence or inappropriate use of the product External event (overvoltage, failure of other components in the installation causing our unit to fail, etc.)  Non observance of documentation, including preventative maintenance Force majeure, including but not restricted to lightning, power surges, natural disasters, and fires Returned unit shows no fault after analysis Improper or no application of safety regulations Utilization in combination with equipment, items or materials not permitted by documentation SPECIAL WARRANTY TERMS & CONDITIONS (PRODUCT WISE).  Inverters As per the conditions (4), (5), (6), (9) above, make sure not to connect grid power to the output of the Inverter which will damage it permanently As per condition (10) above, make sure to use proper batteries with correct voltage.  Do not use damaged or substandard batteries As per the condition (10) above, do not exceed the half (1/2) of the marked output peak wattage.  For example, if you use a 5kW inverter, the maximum you can use continuously is 2.5kW. \nWeekday are working days from Monday to Friday\n\nWarranty We provide warranty for some of the products we sell as below only against manufacturing defects.  Electronic modules: 6 Months Warranty Electronic Tools: 6 Months Warranty 3D Printers: 1 Year Warranty (except physical damages due to misuse, high voltages, etc...) Passive components such as ICs, Transistors, FETs, Triacs, Diacs, Diodes, Inductors, Capacitors, Resistors, Bridge rectifiers, Fuses, etc... are not covered with warranty.  As per the norms in the technology industry, warranty will be void under certain circumstances mentioned below in this document under Warranty Terms & Conditions.  For example, devices such as Raspberry Pi and NodeMCU (ESP8266, ESP32) have all the GPIO pins at 3.3V TTL level.  If you connect an Arduino module with 5V TTL level without properly using level shifters / level convertors or at least dividers, that will easily burn the development board voiding warranty. "
+        ],
+        "additional_metadata": null,
+        "comments": null,
+        "tools_called": null,
+        "expected_tools": null,
+        "reasoning": null,
+        "name": null,
+        "_dataset_rank": null,
+        "_dataset_alias": null,
+        "_dataset_id": null
+    }
+]
