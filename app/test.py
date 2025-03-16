@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import re
+import time
 
 # llama index for RAG system
 from llama_index.core import VectorStoreIndex, load_index_from_storage, StorageContext
@@ -44,8 +45,7 @@ sentence_index = load_index_from_storage(
 query_engine = sentence_index.as_query_engine(
     llm=llm,
     similarity_top_k=5,
-    node_postprocessors=[MetadataReplacementPostProcessor(target_metadata_key="window")],
-    streaming=True  # Enable streaming responses
+    node_postprocessors=[MetadataReplacementPostProcessor(target_metadata_key="window")]
 )
 #----------------------------------------------------------------------app-----------------------------------------------------------------------
 with st.sidebar:
@@ -58,6 +58,11 @@ with st.sidebar:
 
     "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
     "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
+# simulate streaming function 
+def stream_response(response):
+    for word in response.response.split(" "):
+        yield word + " "
+        time.sleep(0.02)
 
 # Initialize chat history
 if "chat_history" not in st.session_state:
@@ -84,16 +89,7 @@ if user_input := st.chat_input("Type your message..."):
             response_container = st.empty()  # Placeholder for streaming response
             response_text = ""
             response_obj = query_engine.query(user_input)
+            response_container.write_stream(stream_response(response_obj))
             
-            # Check if the streaming response supports a 'stream' method.
-            if hasattr(response_obj, "stream"):
-                for chunk in response_obj.stream():
-                    response_text += chunk
-                    response_container.markdown(response_text)
-            else:
-                # Fallback if no streaming method exists:
-                response_text = response_obj.response if hasattr(response_obj, "response") else str(response_obj)
-                response_container.markdown(response_text)
-
     # Append assistant's response to chat history
-    st.session_state.chat_history.append({"role": "assistant", "message": response_text})
+    st.session_state.chat_history.append({"role": "assistant", "message": response_obj.response})
