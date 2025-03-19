@@ -1,3 +1,0 @@
-streamlit
-llama-index
-sentence-transformers
