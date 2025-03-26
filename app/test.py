@@ -90,7 +90,6 @@ with st.sidebar:
     "Need help? Chat with Tonic.lk Support Bot now and get instant assistance! 💙"
 
     "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
-    "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
 # simulate streaming function 
 def stream_response(response):
     for word in response.response.split(" "):
