@@ -12,7 +12,6 @@ This repository contains the source code for a customer support chatbot built us
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -138,15 +137,19 @@ query_engine.update_prompts(
 
 ## Screenshots
 
+### App User Interface 
+![App User Interface](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/main_ui.png)  
+*Figure 1: Sample user interface in streamlit application*
+
 ### Evaluation Tests
 
 Below are screenshots showcasing the evaluation tests conducted to verify the system's performance using evaluation techniques (context relevance, goodness, and faithfulness):
 
 ![Evaluation Test Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/eval.png)  
-*Figure 1: Evaluation test results on metrics Contextual Relevance/Faithfulness/Groundedness*
+*Figure 2: Evaluation test results on metrics Contextual Relevance/Faithfulness/Groundedness*
 
 ![Evaluation Test Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/eval_results.png)  
-*Figure 2: Evaluation test results based on LLM evaluation*
+*Figure 3: Evaluation test results based on LLM evaluation*
 
 ### Sample Input and Output
 
