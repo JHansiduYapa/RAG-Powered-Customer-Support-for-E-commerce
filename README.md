@@ -162,9 +162,6 @@ Below is an example of a markdown table that displays the sample input and sampl
 | ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q4.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans4.png) <br>|
 | ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q5.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans5.png) <br>|
 
-
-Simply replace the image paths with the correct locations for your screenshots in the repository.
-
 ## Evaluation
 
 The chatbot has been rigorously evaluated using techniques that assess:
