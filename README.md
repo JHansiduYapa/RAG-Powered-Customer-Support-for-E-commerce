@@ -140,10 +140,13 @@ query_engine.update_prompts(
 
 ### Evaluation Tests
 
-Below are screenshots showcasing the evaluation tests conducted to verify the system's performance using deep evaluation techniques (context relevance, goodness, and faithfulness):
+Below are screenshots showcasing the evaluation tests conducted to verify the system's performance using evaluation techniques (context relevance, goodness, and faithfulness):
 
-![Evaluation Test Screenshot](images/evaluation_test.png)  
-*Figure 1: Evaluation test results based on LLM evaluation*
+![Evaluation Test Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/eval.png)  
+*Figure 1: Evaluation test results on metrics Contextual Relevance/Faithfulness/Groundedness*
+
+![Evaluation Test Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/eval_results.png)  
+*Figure 2: Evaluation test results based on LLM evaluation*
 
 ### Sample Input and Output
 
@@ -153,7 +156,12 @@ Below is an example of a markdown table that displays the sample input and sampl
 
 | **Sample Input** | **Sample Output** |
 |------------------|-------------------|
-| ![Sample Input Screenshot](images/sample_input.png) <br>*A user query in the chat interface.* | ![Sample Output Screenshot](images/sample_output.png) <br>*The chatbot’s generated response based on the provided query.* |
+| ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q1.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans1.png) <br>|
+| ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q2.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans2.png) <br>|
+| ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q3.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans3.png) <br>|
+| ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q4.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans4.png) <br>|
+| ![Sample Input Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/q5.png) <br> | ![Sample Output Screenshot](https://github.com/janith99hansidu/RAG-Powered-Customer-Support-for-E-commerce/blob/main/src/ans5.png) <br>|
+
 
 Simply replace the image paths with the correct locations for your screenshots in the repository.
 
@@ -162,17 +170,9 @@ Simply replace the image paths with the correct locations for your screenshots i
 The chatbot has been rigorously evaluated using techniques that assess:
 - **Contextual Relevance:** Ensuring the system retrieves the most pertinent sentences.
 - **Faithfulness:** Verifying that the answers are both helpful and adhere closely to the provided context.
-- **Deep Evaluation:** Using the RAG triad (context relevance, goodness, and faithfulness) to continuously refine performance.
+- **Groundedness:** LLMs assesses how well a model's generated responses align with information from the input source.
 
 These evaluation measures ensure that the chatbot reliably meets customer support standards.
-
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Commit your changes with clear messages.
-4. Open a Pull Request for review.
 
 ## License
 
@@ -186,5 +186,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to the open-source community for their continued support and contributions.
 
 ---
-
-This README provides an in-depth overview of the project, guiding users and contributors through the usage and evaluation of the Tonic.lk Customer Support Chatbot. For further questions or support, please open an issue in the repository or contact the maintainers.
